@@ -5,6 +5,7 @@ MNIST dataset by [Odena et al.](https://arxiv.org/abs/1610.09585).
 
 ##Basic Requirements:
 [Torch](http://torch.ch/docs/getting-started.html#_)
+
 [CuDNN](https://developer.nvidia.com/cudnn) (not required but recommended)
 
 ## Run as:
